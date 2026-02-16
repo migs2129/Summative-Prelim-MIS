@@ -20,6 +20,7 @@ h1{
     padding: 10px;
     border-radius: 15px;
     outline: 1px groove white;
+    background-color: rgb(18, 105, 187);
     position: absolute;
     align-self: flex-start;
 }
@@ -77,4 +78,5 @@ h2{
         width: 800px;
         opacity: 100%;
     }
+
 }
